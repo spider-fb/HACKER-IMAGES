@@ -14,9 +14,9 @@ banner() {
     echo -e "$C1   88 '88. 88   88 88.     88   88$C2"
     echo -e "$C1   YP   YD YP   YP Y88888P YP   YP$C2"
     echo -e "$C1[+]===============================[+]$C2"
-    echo -e "$C1       Dev : EBH with KAKAROTO$C2"
-    echo -e "$C1    https://t.me/HaCKer155552323$C2"
-    echo -e "$C1        https://t.me/QKAKAROTO$C2"
+    echo -e "$C1       Dev : spider-fb"
+    echo -e "$C1    https://github.com/spider-fb"
+    echo -e "$C1        Site https://tatawirdat.blogspot.com"
     echo -e "$C1[+]===============================[+]$C2"
 
 
